@@ -1,0 +1,67 @@
+[
+    {
+      "Name": "Spider Plant",
+      "ScientificName": "Chlorophytum comosum",
+      "LightRequirement": "Bright, indirect light",
+      "Watering": "Once a week",
+      "TemperatureRange": "65-75°F",
+      "Humidity": "Average",
+      "CareTips": [
+        "Remove dead leaves and avoid overwatering.",
+        "Ensure good drainage to prevent root rot.",
+        "Consider occasional repotting to promote healthy growth."
+      ]
+    },
+    {
+      "Name": "Snake Plant",
+      "ScientificName": "Sansevieria trifasciata",
+      "LightRequirement": "Low to bright indirect light",
+      "Watering": "Every 2-3 weeks",
+      "TemperatureRange": "60-80°F",
+      "Humidity": "Low to Average",
+      "CareTips": [
+        "Allow soil to dry out between waterings.",
+        "Avoid placing in direct sunlight to prevent leaf burn.",
+        "Wipe leaves occasionally to remove dust and keep them glossy."
+      ]
+    },
+    {
+      "Name": "Peace Lily",
+      "ScientificName": "Spathiphyllum spp.",
+      "LightRequirement": "Low to medium, indirect light",
+      "Watering": "When the top inch of soil is dry",
+      "TemperatureRange": "65-80°F",
+      "Humidity": "High",
+      "CareTips": [
+        "Keep away from drafts and fertilize monthly.",
+        "Provide additional humidity in dry environments.",
+        "Prune dead or yellowing leaves to encourage new growth."
+      ]
+    },
+    {
+      "Name": "Boston Fern",
+      "ScientificName": "Nephrolepis exaltata",
+      "LightRequirement": "Indirect light",
+      "Watering": "Keep soil consistently moist",
+      "TemperatureRange": "60-75°F",
+      "Humidity": "High",
+      "CareTips": [
+        "Maintain high humidity and provide regular misting.",
+        "Place in a bathroom or kitchen where humidity is naturally higher.",
+        "Remove brown or dead fronds to promote fresh growth."
+      ]
+    },
+    {
+      "Name": "ZZ Plant",
+      "ScientificName": "Zamioculcas zamiifolia",
+      "LightRequirement": "Low to bright indirect light",
+      "Watering": "Every 2-3 weeks",
+      "TemperatureRange": "65-80°F",
+      "Humidity": "Low to Average",
+      "CareTips": [
+        "Allow soil to dry out completely between waterings.",
+        "Keep away from cold drafts and extreme temperatures.",
+        "Occasionally clean leaves to prevent dust buildup."
+      ]
+    }
+]
