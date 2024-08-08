@@ -1,0 +1,59 @@
+[
+    {
+      "Name": "Lake Superior",
+      "Area": 117300,
+      "depth": 406,
+      "location": "North America",
+      "Rivers": [
+        "St. Marys River",
+        "Rainy River",
+        "Pigeon River"
+      ],
+      "Outflow": "St. Marys River"
+    },
+    {
+      "Name": "Lake Michigan",
+      "Area": 57757,
+      "depth": 281,
+      "location": "North America",
+      "Rivers": [
+        "Chicago River",
+        "Rivers from the surrounding Great Lakes"
+      ],
+      "Outflow": "Straits of Mackinac"
+    },
+    {
+      "Name": "Lake Huron",
+      "Area": 59570,
+      "depth": 229,
+      "location": "North America",
+      "Rivers": [
+        "St. Clair River",
+        "Various rivers from the surrounding area"
+      ],
+      "Outflow": "St. Clair River"
+    },
+    {
+      "Name": "Lake Erie",
+      "Area": 25700,
+      "depth": 64,
+      "location": "North America",
+      "Rivers": [
+        "Detroit River",
+        "Rivers from Lake Huron",
+        "Lake Ontario"
+      ],
+      "Outflow": "Niagara River"
+    },
+    {
+      "Name": "Lake Ontario",
+      "Area": 19000,
+      "depth": 244,
+      "location": "North America",
+      "Rivers": [
+        "Niagara River",
+        "Rivers from Lake Erie"
+      ],
+      "Outflow": "St. Lawrence River"
+    }
+]
