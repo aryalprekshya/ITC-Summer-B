@@ -1,0 +1,128 @@
+[
+        {
+            "year": "7th century BC",
+            "name": "Great Wall of China",
+            "location": "China",
+            "population": 1400000000,
+            "description": [
+                "A series of fortifications made of various materials, built along the northern borders of China.",
+                "Originally constructed to protect against invasions and raids.",
+                "Stretching over 13,000 miles, it is the longest wall in the world.",
+                "Built by various Chinese dynasties over several centuries."
+            ],
+            "architect": "Various Chinese dynasties",
+            "significance": [
+                "Symbol of China's historical strength and unity.",
+                "Represents ancient military strategy and defensive architecture.",
+                "A UNESCO World Heritage Site and major tourist attraction."
+            ]
+        },
+        {
+            "year": "5th century BC",
+            "name": "Petra",
+            "location": "Jordan",
+            "population": 10200000,
+            "description": [
+                "An archaeological site famous for its rock-cut architecture and water conduit system.",
+                "Known as the 'Rose City' due to the color of the stone.",
+                "Features elaborate tombs and temples carved directly into the sandstone cliffs.",
+                "Was a major trading center in ancient times, linking trade routes."
+            ],
+            "architect": "Nabatean architects",
+            "significance": [
+                "Important trading hub and cultural center.",
+                "Represents advanced engineering and architectural skills of the Nabateans.",
+                "A UNESCO World Heritage Site and one of the New Seven Wonders of the World."
+            ]
+        },
+        {
+            "year": "1931",
+            "name": "Christ the Redeemer",
+            "location": "Brazil",
+            "population": 213000000,
+            "description": [
+                "A colossal statue of Jesus Christ in Rio de Janeiro, known for its iconic pose and panoramic views.",
+                "Standing 98 feet tall with arms stretching 92 feet wide.",
+                "Constructed using reinforced concrete and soapstone.",
+                "Offers breathtaking views of the city and surrounding landscapes."
+            ],
+            "architect": "Heitor da Silva Costa",
+            "significance": [
+                "Symbol of Christianity and peace.",
+                "An iconic landmark representing Rio de Janeiro and Brazil.",
+                "A UNESCO World Heritage Site and one of the New Seven Wonders of the World."
+            ]
+        },
+        {
+            "year": "15th century",
+            "name": "Machu Picchu",
+            "location": "Peru",
+            "population": 34000000,
+            "description": [
+                "An ancient Incan city set high in the Andes Mountains, renowned for its archaeological significance and stunning views.",
+                "Built using sophisticated dry-stone construction techniques.",
+                "Known for its terraced fields, temples, and palaces.",
+                "Discovered by Hiram Bingham in 1911."
+            ],
+            "architect": "Inca civilization",
+            "significance": [
+                "Cultural and spiritual center of the Inca Empire.",
+                "Represents the zenith of Inca architectural and engineering prowess.",
+                "A UNESCO World Heritage Site and one of the New Seven Wonders of the World."
+            ]
+        },
+        {
+            "year": "7th century AD",
+            "name": "Chichen Itza",
+            "location": "Mexico",
+            "population": 126000000,
+            "description": [
+                "A large pre-Columbian archaeological site built by the Maya civilization, known for its pyramid of Kukulcán.",
+                "Features the El Castillo pyramid, used for astronomical and ritual purposes.",
+                "Includes the Great Ball Court, the largest and best-preserved of its kind.",
+                "Known for its impressive and complex Maya architectural style."
+            ],
+            "architect": "Maya civilization",
+            "significance": [
+                "Important center for Maya culture and astronomy.",
+                "Demonstrates the advanced knowledge of the Maya in mathematics and astronomy.",
+                "A UNESCO World Heritage Site and one of the New Seven Wonders of the World."
+            ]
+        },
+        {
+            "year": "80 AD",
+            "name": "Roman Colosseum",
+            "location": "Italy",
+            "population": 60000000,
+            "description": [
+                "An ancient amphitheater in Rome, famous for its grandeur and historical significance as a site of gladiatorial combat.",
+                "Could hold up to 80,000 spectators.",
+                "Features a complex system of vaults and arches.",
+                "Used for gladiatorial contests, public spectacles, and theatrical performances."
+            ],
+            "architect": "Emperor Vespasian and Titus",
+            "significance": [
+                "Symbol of Roman engineering and gladiatorial games.",
+                "Represents the social and cultural life of ancient Rome.",
+                "A UNESCO World Heritage Site and one of the New Seven Wonders of the World."
+            ]
+        },
+        {
+            "year": "1653",
+            "name": "Taj Mahal",
+            "location": "India",
+            "population": 1400000000,
+            "description": [
+                "A white marble mausoleum built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal.",
+                "Features intricate marble inlay work and a large dome.",
+                "Surrounded by lush gardens and reflecting pools.",
+                "Construction took approximately 22 years and involved thousands of artisans."
+            ],
+            "architect": "Ustad Ahmad Lahori",
+            "significance": [
+                "Symbol of love and Mughal architecture.",
+                "Represents the peak of Mughal architecture and artistry.",
+                "A UNESCO World Heritage Site and one of the New Seven Wonders of the World."
+            ]
+        }
+  ]
